@@ -1,0 +1,30 @@
+[
+    {
+        "name": "galletas",
+        "costo": 20,
+        "categoria": "dulces",
+         "piezas": 12
+    },
+
+    {
+        "name": "refresco",
+        "costo": 43,
+        "categoria": "liquidos",
+         "piezas": 8
+    },
+
+    {
+        "name": "papas",
+        "costo": 8,
+        "categoria": "botanas",
+         "piezas": 90
+    },
+
+    {
+        "name": "leche",
+        "costo": 30,
+        "categoria": "lactios",
+         "piezas": 2
+    }
+
+]
